@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="95dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/umkc_logo" />
+
+    <TableLayout
+        android:id="@+id/mainTable"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:stretchColumns="1" >
+
+        <!-- android:layout_column="1" -->
+
+        <TableRow >
+
+            <TextView
+                android:gravity="left"
+                android:padding="3dip"
+                android:text="Roo Career Network" />
+
+            <TextView
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="-->" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow >
+
+            <TextView
+                android:padding="3dip"
+                android:text="Career Advising/Counseling" />
+
+            <TextView
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="-->" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow >
+
+            <TextView
+                android:padding="3dip"
+                android:text="Resume Development Tips" />
+
+            <TextView
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="-->" />
+        </TableRow>
+
+       
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow >
+
+            <TextView
+                android:padding="3dip"
+                android:text="Cover Letter Writing Tips" />
+
+            <TextView
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="-->" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow >
+
+            <TextView
+                android:padding="3dip"
+                android:text="Interviewing Tips" />
+
+            <TextView
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="-->" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow >
+
+            <TextView
+                android:padding="3dip"
+                android:text="@string/Upcoming" />
+
+            <TextView
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="-->" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow >
+
+            <TextView
+                android:padding="3dip"
+                android:text="@string/JobSearch" />
+
+            <TextView
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="-->" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow >
+
+            <TextView
+                android:padding="3dip"
+                android:text="@string/VirtOffice" />
+
+            <TextView
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="-->" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow >
+
+            <TextView
+                android:padding="3dip"
+                android:text="@string/LocHrs" />
+
+            <TextView
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="-->" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+    </TableLayout>
+
+</LinearLayout>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Career Services</string>
+    <string name="app_name">Career Services</string>
+
+    <!-- Main Layout -->
+    <string name="Upcoming">Upcoming Recruiting Events</string>
+    <string name="JobSearch">Job Search Assistance</string>
+    <string name="VirtOffice">Virtual Office/Videos</string>
+    <string name="LocHrs">Location/Hours</string>
+
+    <color name="titleColorNew">#FABE00</color>
+
+    <string-array name="menuName">
+        <item>Location/Hours</item>
+        <item>Roo Career Network</item>
+        <item>Career Advising/Counseling</item>
+        <item>Resume Development Tips</item>
+        <item>Cover Letter Writing Tips</item>
+        <item>Interviewing Tips</item>
+        <item>Upcoming Events</item>
+        <item>Virtual Office/Videos</item>
+        <item>Blog</item>
+        <item>Feedback</item>
+    </string-array>
+    <string-array name="rooCareerMenuName">
+        <item>Profile</item>
+        <item>Documents</item>
+        <item>Jobs</item>
+        <item>Events</item>
+        <item>Appointments</item>
+    </string-array>
+    <string-array name="ResDevmenuName">
+        <item>Contact Information</item>
+        <item>Objective</item>
+        <item>Education</item>
+        <item>Experience</item>
+        <item>Layout and Design</item>
+        <item>Honors and Awards (optional)</item>
+        <item>Activities (optional)</item>
+        <item>Skills (optional)</item>
+        <item>Additional Information</item>
+        <item>Resume Examples</item>
+    </string-array>
+
+    <string name="resumeDevelopment">Resume Development Tips</string>
+    <string name="resumeDevelopmentTxt">Resume critiques are available during appointment times - schedule in Roo Career Network</string>
+    <string name="coreReq">Core Requirements</string>
+    <string name="coverLetter">Cover Letter Tips</string>
+
+    <string-array name="CoverLetterTips">
+        <item>Tips</item>
+        <item>Sample Cover Letters</item>
+    </string-array>
+    <string-array name="interviewTips">
+        <item>Steps in the Interview process</item>
+        <item>Common Questions</item>
+        <item>Following-up after your interview</item>
+        <item>Professional dress</item>
+    </string-array>
+    <string-array name="ParentGroup">
+        <item>Free Online Magazines</item>
+        <item>Free Career Assessments</item>
+        <item>Helpful Videos</item>
+        <item>Presentations</item>
+    </string-array>
+    <string-array name="FreeOnlineMagazines">
+        <item>Job Choices 2012</item>
+    </string-array>
+    <string-array name="FreeCareerAssessments">
+        <item>Sigi3</item>
+        <item>Keirsey Tempermant</item>
+        <item>Self Directed Search</item>
+        <item>Personality Type</item>
+        <item>Assessment.com</item>
+    </string-array>
+    <string-array name="HelpfulVideos">
+        <item>Dressing For a Career Fair</item>
+        <item>Resume Tips</item>
+        <item>Getting Ready for Interviewing</item>
+        <item>Resumes, do I need one?</item>
+        <item>How to Interview</item>
+    </string-array>
+    <string-array name="Presentations">
+        <item>Dress to Impress</item>
+        <item>Etiquette Dinner Tips</item>
+    </string-array>
+
+</resources>
